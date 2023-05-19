@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Mystuff\2022 FALL\Principles of Programming Languages\Homeworks\HW3\src\main\scala\Hw3.scala:191:14: not found: type Tup[0m
+[0m[[0m[31merror[0m] [0m[0m    val res: Tup[Val, Mem]=  eval(env, mem, expr)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Mystuff\2022 FALL\Principles of Programming Languages\Homeworks\HW2\src\test\scala\Hw2Test.scala:44:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : ((String, Hw2.Val)) => org.scalatest.Assertion[0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  ((String, Hw2.Val)) => org.scalatest.compatible.Assertion[0m
+[0m[[0m[31merror[0m] [0m[0m required: java.io.Serializable => ?[0m
+[0m[[0m[31merror[0m] [0m[0m    letRecTestCases.foreach((a: (String, Val)) => {assert(LetRecInterpreter(a._1) === a._2)} )[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Mystuff\2022 FALL\Principles of Programming Languages\Homeworks\HW2\src\test\scala\Hw2Test.scala:51:50: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : ((String, Hw2.Val)) => org.scalatest.Assertion[0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  ((String, Hw2.Val)) => org.scalatest.compatible.Assertion[0m
+[0m[[0m[31merror[0m] [0m[0m required: java.io.Serializable => ?[0m
+[0m[[0m[31merror[0m] [0m[0m    letRecTestCases.foreach(((a: (String, Val))) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

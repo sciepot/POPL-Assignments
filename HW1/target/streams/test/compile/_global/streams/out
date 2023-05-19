@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Mystuff\2022 FALL\Principles of Programming Languages\Homeworks\HW1\src\test\scala\Hw1Test.scala:42:23: not found: value IndNode[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(step_5 === IndNode(10,IntNode(9, Leaf, Leaf), Leaf))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Mystuff\2022 FALL\Principles of Programming Languages\Homeworks\HW1\src\main\scala\Hw1.scala:33:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Cons(_, Cons(_, Cons(_, _))), Cons(_, Nil), Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m    list match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
